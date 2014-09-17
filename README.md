@@ -104,7 +104,7 @@ Email: [nikeshashar@gmail.com](mailto:nikeshashar@gmail.com)
 
 Twitter: [@nikeshashar](www.twitter.com/nikeshashar)
 
-:iPhone: +44 (0) 7557 795448
+:iphone: +44 (0) 7557 795448
 
 Skype: nikeshashar
 
