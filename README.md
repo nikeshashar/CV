@@ -12,7 +12,7 @@ Code Examples
 
 | [Challenge Me](www.github.com/nikeshashar/challenge-me) | [Yelp](www.github.com/nikeshashar/Peri-Yelp) | [Brickagram](www.github.com/nikeshashar/brickagram) |
 |:--------------- |:-------- |:--------- |
-| Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. | Test driven clone of Instagram based around Lego. |
+| Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. | Test driven clone of Instagram based around Lego. | 
 
 **Web Development**
 
@@ -57,6 +57,12 @@ Air Transport Studies BSC Hons
 
 ##Experience
 
+####[Makers Academy](www.makersacademy.com)
+#####Web Development Teacher - Consultancy (Oct '14 - present)
+After graduating at Makers, I am now working there on a temporary basis as a teaching consultant and supporting the current batch of students with their work and being on hand to answer any technical questions they have. 
+
+I am also supporting the Makers Engineering Team by testing some of their software and working with their Director of Engineering to provide mentorship support and feedback on pre-course materials for future students already booked onto the course. 
+
 
 ####[Escape the City](www.escapethecity.org)
 
@@ -66,7 +72,7 @@ I started volunteering my time to Esc to help run their evening meetups and even
 
 ####[Britannia Student Services](www.britanniatravel.com)
 
-#####Sales & Marketing Manager
+#####Sales & Marketing Manager (2010 - 2014)
 
 + Leading sales and marketing activities for Britannia and its subsidiaries
 + Planning, implementing and managing social networking profiles
@@ -108,6 +114,4 @@ Twitter: [@nikeshashar](www.twitter.com/nikeshashar)
 
 Skype: nikeshashar
 
-[LinkedIn](uk.linkedin.com/in/nikeshashar/)
-
-[Github](www.github.com/nikeshashar)
+[LinkedIn](uk.linkedin.com/in/nikeshashar/) | [Github](www.github.com/nikeshashar)
