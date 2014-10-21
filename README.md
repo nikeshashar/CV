@@ -1,6 +1,8 @@
 Nikesh Ashar
 ============
 
+[Github](www.github.com/nikeshashar) | [LinkedIn](uk.linkedin.com/in/nikeshashar/) | [Twitter](twitter.com/nikeshashar) | [Email](mailto:nikeshashar@gmail.com) | [Blog](https://nikeshlearnscode.blogspot.co.uk)
+
 **Currently available for work as a junior developer or freelance consulting**
 
 --See my code [here](www.github.com/nikeshashar)
@@ -102,16 +104,8 @@ Latest Project: Opening [Britannia Study Hotel, Brighton](www.britanniastudyhote
 + OTA Support and Sales Strategy
 + Loss Prevention and Security planning
 
-##Contact Me
 
-Many current students read my [blog](https://nikeshlearnscode.blogspot.co.uk)
 
-Email: [nikeshashar@gmail.com](mailto:nikeshashar@gmail.com)
 
-Twitter: [@nikeshashar](www.twitter.com/nikeshashar)
 
-:iphone: +44 (0) 7557 795448
 
-Skype: nikeshashar
-
-[LinkedIn](uk.linkedin.com/in/nikeshashar/) | [Github](www.github.com/nikeshashar)
