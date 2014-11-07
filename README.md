@@ -18,7 +18,7 @@ Code Examples
 
 **Web Development**
 
-I am driven and fast learning, team player who loves technology. After trying to teach myself on how to code, I decided to join [Makers Academy](www.makersacademy.com) to learn to code the "right way".
+I am driven and fast learning, team player who loves technology. After trying to teach myself on how to code, I decided to join [Makers Academy](https://www.makersacademy.com) to learn to code the "right way".
 
 **Technologies Learnt at Makers**
 
@@ -59,49 +59,41 @@ Air Transport Studies BSC Hons
 
 ##Experience
 
-####[Makers Academy](www.makersacademy.com)
+####[Makers Academy](https://www.makersacademy.com)
 #####Web Development Teacher - Consultancy (Oct '14 - present)
 After graduating at Makers, I am now working there on a temporary basis as a teaching consultant and supporting the current batch of students with their work and being on hand to answer any technical questions they have. 
 
 I am also supporting the Makers Engineering Team by testing some of their software and working with their Director of Engineering to provide mentorship support and feedback on pre-course materials for future students already booked onto the course. 
 
 
-####[Escape the City](www.escapethecity.org)
+####[Escape the City](https://www.escapethecity.org)
 
 I started volunteering my time to Esc to help run their evening meetups and events over 2 years ago. Most recently, I am involved with 99 other people on a pioneering program to help shape the future of the [Escape School](https://school.escapethecity.org/). 
 
 100 people, 100 days, 1 venue in the heart of The City. Our objective? To support and assist each other with brave career transitions, ambitious startups and journeys of personal growth.
 
-####[Britannia Student Services](www.britanniatravel.com)
+####[Britannia Student Services](https://www.britanniatravel.com)
 
 #####Sales & Marketing Manager (2010 - 2014)
 
-+ Leading sales and marketing activities for Britannia and its subsidiaries
-+ Planning, implementing and managing social networking profiles
-+ Competition research and market analysis
-+ Supporting international bids for educational contracts
-+ Account management of new and existing clients 
-+ Recruiting new agents and language schools
-+ Attending trade shows to expand the brand and recruit new students
-+ Increasing brand awareness with marketing activities both in the UK and around our key markets
-+ Marketing direction for new website and booking system
++ Overseeing all sales & marketing
++ Managing social media
++ Competitor analysis
++ International bids
++ Account management 
++ Business development
++ Attending trade shows 
++ Increasing brand awareness
 
-Latest Project: Opening [Britannia Study Hotel, Brighton](www.britanniastudyhotel.com)
+Latest Project: Opening [Britannia Study Hotel, Brighton](https://www.britanniastudyhotel.com)
 
-+ Room design
-+ Building conception
++ Project Management 
++ Building conception and design
 + Technical planning and implentation of all IT related equipment
 + Purchase and implementation of IT systems to run the hotel
-+ Pre-opening sales and contracts
 + Management of opening with the project team
-+ Staff training on all aspects of the hotel
-+ Continous offline sales
-+ Implementing online sales through various booking channels
 + Revenue Management
-+ RevPar
 + Competition Analysis
-+ Ensuring hotel remained between 95 - 100% booked at all times
-+ OTA Support and Sales Strategy
 + Loss Prevention and Security planning
 
 
