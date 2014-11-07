@@ -5,14 +5,14 @@ Nikesh Ashar
 
 **Currently available for work as a junior developer or freelance consulting**
 
---See my code [here](www.github.com/nikeshashar)
+--See my code [here](https://www.github.com/nikeshashar)
 
 --Read about my experience at Makers [here](https://nikeshlearnscode.blogspot.co.uk)
 
 Code Examples
 -------------
 
-| [Challenge Me](www.github.com/nikeshashar/challenge-me) | [Yelp](www.github.com/nikeshashar/Peri-Yelp) | [Brickagram](www.github.com/nikeshashar/brickagram) |
+| [Challenge Me](https://www.github.com/nikeshashar/challenge-me) | [Yelp](https://www.github.com/nikeshashar/Peri-Yelp) | [Brickagram](https://www.github.com/nikeshashar/brickagram) |
 |:--------------- |:-------- |:--------- |
 | Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. | Test driven clone of Instagram based around Lego. | 
 
