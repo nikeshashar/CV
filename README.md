@@ -1,9 +1,9 @@
 Nikesh Ashar
 ============
 
-[Github](www.github.com/nikeshashar) | [LinkedIn](uk.linkedin.com/in/nikeshashar/) | [Twitter](twitter.com/nikeshashar) | [Email](mailto:nikeshashar@gmail.com) | [Blog](https://nikeshlearnscode.blogspot.co.uk)
+[Github](https;//www.github.com/nikeshashar) | [LinkedIn](https://uk.linkedin.com/in/nikeshashar/) | [Twitter](https://twitter.com/nikeshashar) | [Email](mailto:nikeshashar@gmail.com) | [Blog](https://nikeshlearnscode.blogspot.co.uk)
 
-**Currently available for work as a junior developer or freelance consulting**
+**Currently available for work as a junior developer**
 
 --See my code [here](https://www.github.com/nikeshashar)
 
