@@ -14,7 +14,7 @@ Code Examples
 
 | [Challenge Me](https://www.github.com/nikeshashar/challenge-me) | [Yelp](https://www.github.com/nikeshashar/Peri-Yelp) | [Brickagram](https://www.github.com/nikeshashar/brickagram) |
 |:--------------- |:-------- |:--------- |
-| Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. | Test driven clone of Instagram based around Lego. | 
+| Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. Made in Rails.| Test driven clone of Instagram based around Lego. Made in Rails.| 
 
 **Web Development**
 
