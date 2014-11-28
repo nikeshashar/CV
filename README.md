@@ -20,22 +20,6 @@ Code Examples
 
 I am driven and fast learning, team player who loves technology. After trying to teach myself on how to code, I decided to join [Makers Academy](https://www.makersacademy.com) to learn to code the "right way".
 
-**Technologies Learnt at Makers**
-
-+ Agile methodologies (TDD, BDD, Scrum)
-+ Object orientated programming
-+ Pair programming
-+ Ruby 2.1.x / Ruby on Rails 4.1.x / 4.2.0 (beta)
-+ Sinatra
-+ PostgreSQL
-+ Javascript, jQuery, Ajax, Web-sockets
-+ RSpec, Capybara, Cucumber and Jasmine
-+ Using Ruby Gems (Paperclip, Devise, BCrpyt)
-+ Object relational mappers like ActiveRecord and Datamapper
-+ Github / Heroku
-+ HTML5, CSS, Bootstrap,
-+ APIs including Twilio, Stripe, Mailgun, Google Maps, GMaps
-
 ###Experience
 
 #####Web Development Teacher
@@ -64,5 +48,21 @@ I started volunteering my time to Esc to help run their evening meetups and even
 ####**Education**
 
 #####[Makers Academy](http://www.makersacademy.com), June -September 2014 - Full Stack Web Developer
+
+**Technologies Learnt at Makers**
+
++ Agile methodologies (TDD, BDD, Scrum)
++ Object orientated programming
++ Pair programming
++ Ruby 2.1.x / Ruby on Rails 4.1.x / 4.2.0 (beta)
++ Sinatra
++ PostgreSQL
++ Javascript, jQuery, Ajax, Web-sockets
++ RSpec, Capybara, Cucumber and Jasmine
++ Using Ruby Gems (Paperclip, Devise, BCrpyt)
++ Object relational mappers like ActiveRecord and Datamapper
++ Github / Heroku
++ HTML5, CSS, Bootstrap,
++ APIs including Twilio, Stripe, Mailgun, Google Maps, GMaps
 
 ####City University, London, 2004 - 2007 - Air Transport Studies BSC Hons
