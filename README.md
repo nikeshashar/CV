@@ -1,9 +1,9 @@
 Nikesh Ashar
 ============
 
-[Github](https://www.github.com/nikeshashar) | [LinkedIn](https://uk.linkedin.com/in/nikeshashar/) | [Twitter](https://twitter.com/nikeshashar) | [Email](mailto:nikeshashar@gmail.com) | [Blog](https://nikeshlearnscode.blogspot.co.uk)
+[Github](https;//www.github.com/nikeshashar) | [LinkedIn](https://uk.linkedin.com/in/nikeshashar/) | [Twitter](https://twitter.com/nikeshashar) | [Email](mailto:nikeshashar@gmail.com) | [Blog](https://nikeshlearnscode.blogspot.co.uk)
 
-**Currently available for work as a junior developer or freelance consulting**
+**Currently available for work as a junior developer**
 
 --See my code [here](https://www.github.com/nikeshashar)
 
@@ -14,7 +14,7 @@ Code Examples
 
 | [Challenge Me](https://www.github.com/nikeshashar/challenge-me) | [Yelp](https://www.github.com/nikeshashar/Peri-Yelp) | [Brickagram](https://www.github.com/nikeshashar/brickagram) |
 |:--------------- |:-------- |:--------- |
-| Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. | Test driven clone of Instagram based around Lego. |
+| Test driven Rails MVP created in 10 days to make fundraising fun. | Test driven Yelp clone for a single chain of restaurants with customised URL's. Made in Rails.| Test driven clone of Instagram based around Lego. Made in Rails.| 
 
 **Web Development**
 
