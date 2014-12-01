@@ -33,7 +33,8 @@ My responsibilities on the team were to create and work on the back-end of the a
 I started volunteering my time to Esc to help run their evening meetups and events over 2 years ago. Most recently, I am involved with 99 other people on a pioneering program to help shape the future of the [Escape School](https://school.escapethecity.org/). 
 
 ####[Britannia Student Services](https://www.britanniatravel.com)
-#####Sales & Marketing Manager (2010 - 2014)
+#####Sales & Marketing Manager (2013 - 2014)
+#####Groups Department Manager (2010 - 2014)
 
 + Management of all social media activity
 + Research and implement a customised CMS
