@@ -1,5 +1,5 @@
-####Nikesh Ashar | t: 07557 795 448 | nikeshashar@gmail.com
-[Github](www.github.com/nikeshashar) | [LinkedIn](uk.linkedin.com/in/nikeshashar/) | [Twitter](twitter.com/nikeshashar) |  [Blog](https://nikeshlearnscode.blogspot.co.uk)
+####Nikesh Ashar | nikeshashar@gmail.com
+[Github](www.github.com/nikeshashar) | [LinkedIn](uk.linkedin.com/in/nikeshashar/) | [Twitter](twitter.com/nikeshashar) | 
 
 ####Code Samples
 -------------
