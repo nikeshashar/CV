@@ -15,7 +15,7 @@ A driven and fast learning, team player who loves technology & solving problems.
 + Working on personal projects to keep skills up to date
 
 ##### Senior operations manager (March 2020 - present)
-Following a restructure at Makers at the start of the pandemic I was asked take over the role of centralised operations and bring multiple parts of our business back together under one roof. Projects have included :
+Following a restructure at Makers at the start of the pandemic I was asked take over the role of Senior Operations Manager and bring multiple parts of our business back together under one roof. Projects completed include :
 * Managing our fleet of 200+ laptops and mobile devices (from spreadsheet -> MDM)
 * Restructuring and updating all processes across the business
 * Building internal teams up to share knowledge in a remote first world
@@ -23,6 +23,8 @@ Following a restructure at Makers at the start of the pandemic I was asked take 
 * Cutting costs by approx 35% across the business
 * Testing and implenting new software across all teams
 * Becoming Cyber Secure to adhere to government supply guidelines
+* Shutting down buildings that we no longer require
+* Restructuring our current commitments w.r.t buildings and commercial leases
 
 ##### Head of delivery - apprenticeships (August 2018 - March 2020)
 Makers launched Apprenticeships in 2018. I was asked to launch the division using the knowledge and experience gained over the years building the core bootcamp model.
