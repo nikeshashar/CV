@@ -8,7 +8,7 @@ A driven and fast learning, team player who loves technology & solving problems.
 
 #### [Makers Academy](https://www.makersacademy.com)
 
-##### Web developer - freelance (October 2014 - present)
+##### Systems and web developer - freelance (October 2014 - present)
 + Building simple and interactive sites for small businesses 
 + Advising on SEO and growth strategy with startups through Escape the City and NEF
 + Bug fixing for product sites
